@@ -3,4 +3,4 @@
 
 <a href ="https://ehrlichd.github.io/Coursera-Data-Science-Specialization-Developing-Data-Products-Week-2-Assignment/My-First-Leaflet-Map.html"> TestMap </a>
 
-https://ehrlichd.github.io/Coursera-Data-Science-Specialization-Developing-Data-Products-Week-2-Assignment/My-First-Leaflet-Map.html
+![/My-First-Leaflet-Map.html]
